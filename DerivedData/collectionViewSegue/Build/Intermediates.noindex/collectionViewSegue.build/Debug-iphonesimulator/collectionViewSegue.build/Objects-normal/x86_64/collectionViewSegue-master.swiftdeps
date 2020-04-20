@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "83e3fd29b750fb0b5c2e752ca53d1d94"
+build_time: [1587403813, 293967000]
+inputs:
+  "/Users/Arifeen/Desktop/Shohayok-Project-CollectionViewSegue/collectionViewSegue/ViewController.swift": [1584532716, 0]
+  "/Users/Arifeen/Desktop/Shohayok-Project-CollectionViewSegue/collectionViewSegue/AppDelegate.swift": [1584532716, 0]
+  "/Users/Arifeen/Desktop/Shohayok-Project-CollectionViewSegue/collectionViewSegue/CollectionViewCell.swift": [1584532716, 0]
+  "/Users/Arifeen/Desktop/Shohayok-Project-CollectionViewSegue/collectionViewSegue/DetailViewController.swift": [1584532716, 0]
